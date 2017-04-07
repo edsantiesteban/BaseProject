@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

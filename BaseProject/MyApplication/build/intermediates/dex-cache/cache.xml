@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3928112cd3473ffb336bf77c873e5ba49f817653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/decfbf85a8aead28c3dd2d3b9bbcab2abacfa3d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_f1791a06a015a16744191ba646c643d124ddd293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/18b5f39b1a5c44d6f450e23aa3948b1ee698c45c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_1177199ff2184dc41b1719977065fd02a11c9372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/465882548f9d66b95062dbdb906926b0a88613d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_be11bc1c96167b8939ee6db3388e833bb4b6b01f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/af87a8588e63a856ec792826a60a357196488dc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_ad53499dd5df76fcef8f2ec070a2c5e881a7aed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/8484626503fcfcb046374321ef96df227c404022/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_407298dc66d0bda00b210663d768cd9f36102a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/c37d0e8197af725ffd981c3f8b2e131031ed0340/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_fd630a8ab50c3d763bdb21e42fd8c2c9c75eb8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/96256bafeb4fe519410bd21da8e37c9eef4af1e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_8cedaef927e09b1cb0580a8fea0be209bdf23252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_5bdaa36866f572c39923bcd32188d1967cda06d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/szlj07/.android/build-cache/610a313672825a7b1257ccbca89a8b8c12bbc1c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9c105ac0bd35916697c9ac44694c952cf09f671c.jar" />
+    </item>
+
+</items>

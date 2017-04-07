@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

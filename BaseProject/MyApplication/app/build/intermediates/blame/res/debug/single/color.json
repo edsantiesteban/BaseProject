@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/szlj07/Documents/GM/Misc/InterviewApp/Omnibus/MyApplication/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/szlj07/.android/build-cache/869d0ad564984de0311fcc705229a70f9205aa0a/output/res/color/switch_thumb_material_light.xml"
+    }
+]
